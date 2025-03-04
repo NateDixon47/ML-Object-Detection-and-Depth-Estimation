@@ -46,14 +46,14 @@ Final path: data/color/height20m/depth/.
 - **Output**: Trained YOLO v11 model weights and detection results.
 - **Results**: Run the 'inference.py' script in the 'part_1' directory to view the models predictions on the given images.
 
-    ![Vehicle Detection Sample](part_1\results\result_image_4.jpg "Sample output of YOLO v11 detecting cars")
+    ![Vehicle Detection Sample](part_1/results/result_image_4.jpg "Sample output of YOLO v11 detecting cars")
 
 ### Depth Estimation
 - **Script**: Run the 'train.py' script in the 'part_2' directory to train the depth estimation model on the Syndrone dataset.
 - **Output**: Fine-tuned depth estimation model weights and predicted depth maps.
 - **Results**: Run the 'inference.py' script in the 'part_2' directory to view the models predicted depth maps.
 
-    ![Depth Estimation Sample](presentation_and_results\part_2_results\result_004.png "Sample output of depth estimation model")
+    ![Depth Estimation Sample](presentation_and_results/part_2_results/result_004.png "Sample output of depth estimation model")
 
 ## Results
 Object Detection: Achieved high accuracy in detecting vehicles, with bounding boxes correctly placed in most test cases.
