@@ -1,0 +1,4 @@
+train: /Users/ndixo/Desktop/ML_Final/part_1/train
+val: /Users/ndixo/Desktop/ML_Final/part_1/val
+nc: 9
+names: ["Person", "Car", "Truck", "Bus", "Train", "Motorcycle", "Bicycle", "Motorcyclist", "Bicyclist"]
